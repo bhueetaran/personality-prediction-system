@@ -66,4 +66,16 @@ All datasets used are publicly available on **Kaggle** and can be accessed via t
 ---
 
 ## 🗂 Structure
+```text
+├─ integrated app.py
+├─ README.md
+├─ requirements.txt
+├─ MBTI/
+│  ├─ best_model.joblib
+│  ├─ label_encoder.joblib
+│  └─ main.ipynb
+└─ Ocean/
+   ├─ personality_model.pkl
+   └─ main.ipynb
+
 
